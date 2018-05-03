@@ -8,7 +8,7 @@
 #define MIPROYECTO_H
 /** \brief Bare Metal example header file
  **
- ** This is a mini example of the CIAA Firmware
+ ** This is a example of Design Patterns for Safety-Critical Embedded Systems with EDU-CIAA
  **
  **/
 

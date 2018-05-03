@@ -6,7 +6,7 @@
 
 # examples
 
-PROJECT = projects/patron_nvp
+PROJECT = projects/proyecto_nvp
 
 #-------------------------------------------------------------------------------
 # current target
